@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image_path = 'E:\\OneDrive\\Documents\\4th year 1st semester\\digital image processing\\images\\DIP_Lab_task_02.jpg'  # Replace with your image path
+image_path = 'E:\\OneDrive\\Documents\\4th year 1st semester\\digital image processing\\images\\DIP_Lab_task_02.jpg'  
 image = cv2.imread(image_path)
 
 height, width, channels = image.shape
