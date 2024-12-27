@@ -27,3 +27,6 @@ for intensity, freq in enumerate(intensity_freq):
 cv2.imshow('Image', image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+# Reference
+# www.geeksforgeeks.org
+
