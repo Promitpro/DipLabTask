@@ -27,3 +27,7 @@ cv2.imshow('Original', image)
 cv2.imshow('Filtered', filtered_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+# Reference
+# www.stackoverflow.com
+# www.geeksforgeeks.org
+# www.gemini.ai
