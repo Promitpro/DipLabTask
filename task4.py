@@ -21,4 +21,7 @@ cv2.imshow("Original Image", img)
 cv2.imshow("Reduced Brightness Image", reduced_brightness_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
+# Reference
+# www.stackoverflow.com
+# www.geeksforgeeks.org
+# www.allaboutcircuits.com
