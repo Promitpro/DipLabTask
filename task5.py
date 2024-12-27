@@ -84,3 +84,6 @@ cv2.imshow("Mask Inverted", mask_inv)
 cv2.imshow("Segmented Dog", result)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+# Reference
+# www.allaboutcircuits.com
+# www.gemini.ai
